@@ -6,5 +6,4 @@ export default class InvalidPurchaseException extends Error {
         this.status = status;
     }
 
-
 }
